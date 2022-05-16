@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Supun Viraj 👋
+
+A passionate full-stack software developer.  
+
+### 📫 Reach Me on
+
+- [LinkedIn](https://www.linkedin.com/in/supun-viraj-rathnayaka-1a6b0824/)
 
 <!--
 **rathnaviraj/rathnaviraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
